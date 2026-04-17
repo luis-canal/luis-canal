@@ -36,9 +36,9 @@ Currently applying technology in real business scenarios, connecting software de
 
 ## 📈 GitHub Stats
 
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luis-canal&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-canal&layout=compact&theme=tokyonight)
 
 ---
 
